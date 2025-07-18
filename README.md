@@ -4,7 +4,7 @@ Re-CRUD 2.X enable the developer to create the fundamental web application funct
 
 ## 🚀 Authors
 
--   [@Asyraf Wahi Anuar](https://github.com/Asyraf-wa)
+-   [@Ekram Bahari](https://github.com/markE1212)
 
 ## License
 
@@ -40,8 +40,6 @@ Re-CRUD 2.X enable the developer to create the fundamental web application funct
 -   [x] Notification bar
 -   [x] Promotion Ribbon
 -   [ ] Menu Management [coming soon]
-
-## Screenshots
 
 ## Roadmap
 
